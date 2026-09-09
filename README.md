@@ -83,18 +83,18 @@ Sentinel-2 imagery
 Vegetation stress
         │
         ├──────────────┐
-        │              │
-        ▼              ▼
+        │                │
+        ▼               ▼
 CHIRPS rainfall   Rainfall stress
-        │              │
+        │                │
         └───────┬──────┘
                 ▼
        Combined stress
                 │
         ┌───────┴───────┐
-        ▼               ▼
+        ▼                ▼
   2024 stress       2025 stress
-        │               │
+        │                 │
         └───────┬───────┘
                 ▼
       2025 − 2024 change
